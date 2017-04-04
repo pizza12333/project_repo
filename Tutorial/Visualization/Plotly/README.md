@@ -12,4 +12,6 @@ Chapter 02 That‘s one small step for plotly, one giant leap for interactive vi
 
 2. Plotly data type : graphic_obj
 
+3. GoGo plotly : Histogram (17.4.4)
+
 comming soon
