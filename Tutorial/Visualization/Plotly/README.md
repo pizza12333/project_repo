@@ -15,4 +15,6 @@ Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 시각화 구�
 
 3. GoGo plotly : Histogram (Aprils 15 upload)
 
+4. GoGo plotly : Scatter plot (Aprils 17 upload)![]()
+
 comming soon
