@@ -17,4 +17,6 @@ Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 시각화 구�
 
 4. GoGo plotly : Scatter plot (Aprils 17 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_2%20Scatter%20Plot.ipynb)
 
+4. GoGo plotly : Box plot (Aprils 18 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
+
 comming soon
