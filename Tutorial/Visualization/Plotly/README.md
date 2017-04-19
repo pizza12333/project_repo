@@ -5,7 +5,7 @@
 So I recommend you that clone gitpage into your local and then, you can see the whole plots on ipython notebook)
 
 ### Index 
-Chapter 01 Plotly 살펴보기
+**Chapter 01 Plotly 살펴보기**
 
 1. Introduction of Python Interactive visualization packages Plotly(Aprils 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)
 
