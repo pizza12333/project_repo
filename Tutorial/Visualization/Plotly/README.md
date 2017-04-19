@@ -9,7 +9,7 @@ Chapter 01 Plotly 살펴보기
 
 1. Introduction of Python Interactive visualization packages Plotly(Aprils 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)
 
-Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 시각화 구조 파악하기
+Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 구조 및 기초 그래프 
 
 2. Plotly data type : graphic_obj[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)
 
@@ -18,6 +18,11 @@ Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 시각화 구�
 4. GoGo plotly : Scatter plot (Aprils 17 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_2%20Scatter%20Plot.ipynb)
 
 4. GoGo plotly : Box plot (Aprils 18 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
+
+Chapter 03 통계적 그래프 그리기 : figure_factory
+(Plotly Statistical Graphics : figure_factory)
+
+1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)
 
 comming soon
 
