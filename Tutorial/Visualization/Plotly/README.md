@@ -20,3 +20,10 @@ Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 시각화 구�
 4. GoGo plotly : Box plot (Aprils 18 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
 
 comming soon
+
+
+### 출처
+
+https://plot.ly/python
+
+**공식문서(https://plot.ly/python)를 재해석하여 만든 문서임을 밝힙니.**
