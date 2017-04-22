@@ -7,26 +7,26 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 ### Index 
 **Chapter 01 Plotly 살펴보기**
 
-1. Introduction of Python Interactive visualization packages Plotly(Aprils 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)
+1. Introduction of Python Interactive visualization packages Plotly(Aprils 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)
 
 **Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 구조 및 기초 그래프**
 
-1. Plotly data type : graphic_obj[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)
+1. Plotly data type : graphic_obj[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)
 
-2. GoGo plotly : Histogram (Aprils 15 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_1%20Histogram.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_1%20Histogram.ipynb)
+2. GoGo plotly : Histogram (Aprils 15 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_1%20Histogram.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_1%20Histogram.ipynb)
 
-3. GoGo plotly : Scatter plot (Aprils 17 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_2%20Scatter%20Plot.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
+3. GoGo plotly : Scatter plot (Aprils 17 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_2%20Scatter%20Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
 
-4. GoGo plotly : Box plot (Aprils 18 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
+4. GoGo plotly : Box plot (Aprils 18 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
 
 **Chapter 03 통계적 그래프 그리기 : figure_factory**
 **(Plotly Statistical Graphics : figure_factory)**
 
-1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)
+1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)
 
-2. Statistical plotly: Violin Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)
+2. Statistical plotly: Violin Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)
 
-3. Statistical plotly: 2D Histogram & 2D Density Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)[NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)
+3. Statistical plotly: 2D Histogram & 2D Density Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)
 
 
 comming soon
