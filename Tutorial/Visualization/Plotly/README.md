@@ -22,7 +22,7 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 **Chapter 03 통계적 그래프 그리기 : figure_factory**
 **(Plotly Statistical Graphics : figure_factory)**
 
-1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper02_3%20Box%20Plot.ipynb)
+1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)
 
 comming soon
 
