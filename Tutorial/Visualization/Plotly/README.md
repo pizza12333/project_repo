@@ -24,9 +24,9 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 
 1. Introduce Statistical Graphics module, figure_factory & Dist Plot (Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chaper03_1.%20Dists%20Plot.ipynb)
 
-2. Statistical plotly: Violin Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)
+2. Statistical plotly: Violin Plot(Aprils 21 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_01_Violin_Plot.ipynb)
 
-3. Statistical plotly: 2D Histogram & 2D Density Plot(Aprils 19 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)
+3. Statistical plotly: 2D Histogram & 2D Density Plot(Aprils 22 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)
 
 
 comming soon
