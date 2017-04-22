@@ -2,7 +2,7 @@
 
 **Notice**
 
-ggplot2는 다른 그래픽 패키지와 달리 데이터를 효과적으로 분석하도록 해주는 grammar of graphic를 확장한 Layered grammar of graphics 를 탑제하였습니다. 다만 qplot의 경우 Quick plot의 약자답게 빠르고 간편한 대신 이러한 철학을 대변할 수 다는 단점이 있습니다. 따라서 본 문서에서는 ggplot2의 문법적 이해를 통해 암기를 최대한 줄이는 것을 목표로 하기 때문에 qplot의 경우 생략하였습니다.
+ggplot2는 다른 그래픽 패키지와 달리 데이터를 효과적으로 분석하도록 해주는 grammar of graphic를 확장한 Layered grammar of graphics 를 탑제하였습니다. 다만 qplot의 경우 Quick plot의 약자답게 빠르고 간편한 대신 이러한 철학을 대변할 수 없다는 단점이 있습니다. 따라서 본 문서에서는 ggplot2의 문법적 이해를 통해 암기를 최대한 줄이는 것을 목표로 하기 때문에 qplot의 경우 생략하였습니다.
 
 **홈페이지** : pizza12333.github.io
 
