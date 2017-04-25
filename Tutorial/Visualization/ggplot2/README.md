@@ -59,7 +59,7 @@ $_{^{**}1)}$  " Without the grammar, there is no underlying theory and existing 
 
 #### Chapter 01 : ggplot2 시작하기
 * 들어가며
-1. Introduction of R basic grahic systems 
+1. Introduction of R basic grahic systems [(바로가기)](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/ggplot2/ch_01.introduction_of_R_basic_graphics_systems.md)
 2. Layered Grammar of graphics in ggplot2
 
 Comming soon
