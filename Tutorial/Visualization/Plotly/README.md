@@ -28,9 +28,10 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 
 3. Statistical plotly: 2D Histogram & 2D Density Plot(Aprils 22 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)[/ NbViewer 바로가기](https://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_03_2D_Histogram_%26_Desitiy_Plot.ipynb)
 
-
+http://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_04_Maps%28geometry%20plot%29_Choropleth%20%26%20Scattergeo.ipynb
 comming soon
 
+4. Statistical plotly: Maps(geometry plot) Choropleth & Scattergeo(Aprils 28 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_04_Maps(geometry%20plot)_Choropleth%20%26%20Scattergeo.ipynb)[/ NbViewer 바로가기](http://nbviewer.jupyter.org/github/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_04_Maps%28geometry%20plot%29_Choropleth%20%26%20Scattergeo.ipynb)
 
 ### 출처
 
