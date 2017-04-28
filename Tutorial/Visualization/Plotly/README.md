@@ -10,7 +10,7 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 1. Introduction of Python Interactive visualization packages Plotly(Aprils 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Introduction_plotly.ipynb)
 **Chapter 02 인터렉티브 시각화를 위한 걸음마 : Plotly 구조 및 기초 그래프**
 
-1. Plotly data type : graphic_obj[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb
+1. Plotly data type : graphic_obj[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_plotly.graph_objcet.ipynb)
 
 2. GoGo plotly : Histogram (Aprils 15 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter02_1%20Histogram.ipynb)
 
