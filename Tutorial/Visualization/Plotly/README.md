@@ -30,6 +30,9 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 
 4. Statistical plotly: Maps(geometry plot) Choropleth & Scattergeo(Aprils 28 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter03_04_Maps(geometry%20plot)_Choropleth%20%26%20Scattergeo.ipynb)
 
+**Chapter 04 내 마음대로 plotly 수정하기: Tunning parameter for customizing**
+
+1. Subplot, MultiAxis, Insets (may 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter04_01_Subplot%2C%20MultiAxis%2CInsets.ipynb)
 comming soon
 ### 출처
 
