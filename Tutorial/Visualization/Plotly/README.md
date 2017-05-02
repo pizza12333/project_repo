@@ -34,7 +34,9 @@ So I recommend you that clone gitpage into your local and then, you can see the 
 
 1. Subplot, MultiAxis, Insets (may 1 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter04_01_Subplot%2C%20MultiAxis%2CInsets.ipynb)
 
-
+2. Customizing Plotly Size (may 2 upload)[( 바로가기 )](https://github.com/pizza12333/project_repo/blob/master/Tutorial/Visualization/Plotly/Chapter04_03_Customizing_Plotly_Size.ipynb)
+ 
+ 
 comming soon
 ### 출처
 
