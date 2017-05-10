@@ -7,8 +7,10 @@
 #### 1) Plotly python [바로가기](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/Plotly)
 #### 2) ggplot2, The way of effcient visualiztion with R, [바로가기](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/ggplot2)
 
-## 2.Portfolio
+## 2. Kaggle solution
 
+#### 1) mnist : Digit Recognizer competition [바로가기](https://github.com/pizza12333/project_repo/tree/master/Kaggle/mnist)
 
 ## 3.Project
 
+#### 1) HR
