@@ -3,6 +3,7 @@ import json
 import os
 from pandas.io.json import json_normalize
 import time
+from get_access import get_access
 
 def restAPI(pid, token, page=1, count=100, dire="../data/"):
     directory = dire
