@@ -6,6 +6,6 @@
 
 ## 하위 프로젝트 
 
-1. 치킨 시각화 해버렷! [바로가기]()
+1. 치킨 시각화 해버렷! [바로가기](https://github.com/pizza12333/project_repo/tree/master/project/sk_vis/vis_chiken)
 
 
