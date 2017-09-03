@@ -14,3 +14,7 @@
 ## 3.Project
 
 #### 1) SK 데이터허브 시각화 [바로가기](https://github.com/pizza12333/project_repo/tree/master/project/sk_vis)
+
+## 4.공부
+
+#### 1) EDA
