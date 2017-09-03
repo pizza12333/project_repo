@@ -17,4 +17,5 @@
 
 ## 4.공부
 
-#### 1) EDA
+#### 1) 책
+#### Machien Learning in python [바로가기]()
