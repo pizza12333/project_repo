@@ -7,6 +7,7 @@
 4. 크롤러와 MySQL간 데이터 파이프라인 실해
 
 ## 프로젝트 사용 데이터.
-1. Sktelecom 사용자의 2013년부터 2017년 4월 까지의 치킨 주문 데이터<br>[바로가기](https://www.bigdatahub.co.kr/product/view.do?pid=1001463)
+1. Sktelecom 사용자의 2013년부터 2017년 4월 까지의 치킨 주문 데이터<br>
+데이터 예시: 2017년 1월 데이터 [바로가기](https://www.bigdatahub.co.kr/product/view.do?pid=1001463)
 
 
