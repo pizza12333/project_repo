@@ -10,7 +10,7 @@
 
 ## 2.Project
 
-#### 1) 파이썬을 활용한 SK-데이터허브 RestAPI 봇 만들기 [바로가기](https://github.com/pizza12333/project_repo/tree/master/project/sk_vis)
+#### 1) Dajngo와 Python Seleinum을 활용한 Microsoft Azure 기반 분석 Restful API 서버 만들기.[바로가기](https://github.com/pizza12333/project_repo/tree/master/project/sk_vis)
 #### 2) (17.09.11 현재 구상중)구글 클라우드와 Tensorflow를 활용한 VOD 추천 챗봇 개발 [바로가기](https://github.com/pizza12333/project_repo/tree/master/project/VOD_recomm)
 
 ## 4. 공부
