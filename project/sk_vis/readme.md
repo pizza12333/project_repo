@@ -1,4 +1,10 @@
 ## Dajngo와 Python Seleinum을 활용한 <br> Microsoft Azure 기반 분석 Restful API 서버 만들기.
+**Notice**
+- SK 데이터허브는 데이터 공유가 금지돼있습니다. 따라서 8만4천건의 레코드 중 100개만 예시로 남기고 삭제하였습니다. 100개의 데이터로 인해 사소한 문제라도 발생할시 바로 삭제하도록 하겠습니다.
+- Azure의 무료 평가기간 만료로 python-anywhere로 마이그레이션하였습니다.
+
+## 프로젝트 완성본
+링크 : [RestAPI GUI 바로가기](http://jeongwoojin.pythonanywhere.com/api/?format=api&offset=90)
 
 ## 프로젝트 하위 목표 
 1. python selenium을 활용한 SK 데이터허브 공공데이터에 대한 자동 RestAPI 권한 획득 봇 개발.
