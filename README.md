@@ -2,7 +2,12 @@
 
 ## 1. Tutorial
 
-### (1) Visualization
+### (1) 기계학습 알고리즘
+
+#### 1) Cook Cook Data Science
+**1. Regression [바로가기]()**
+
+### (2) Visualization
 
 #### 1) Plotly python [바로가기](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/Plotly)
 #### 2) ggplot2, The way of effcient visualiztion with R, [내용 업데이트를 위한 비공개](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/ggplot2)
