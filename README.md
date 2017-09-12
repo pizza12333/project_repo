@@ -5,7 +5,7 @@
 ### (1) 기계학습 알고리즘
 
 #### 1) Cook Cook Data Science
-**1. Regression [바로가기]()**
+**1. Regression [바로가기](https://github.com/pizza12333/project_repo/tree/master/cook_cook_DS)**
 
 ### (2) Visualization
 
