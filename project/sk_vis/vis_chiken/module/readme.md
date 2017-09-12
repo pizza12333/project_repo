@@ -1,5 +1,4 @@
 ## 모듈 디렉토리
-** 이 디렉토리는 설명을 위한 소스코드가 아닌 실제 작동을 위하여 모듈화 된 코드를 저장하는 장소입니다.**
 
 1. get_access.py : 
   - get_access(Id, pw, query) 함수가 존재합니다. 
@@ -34,3 +33,14 @@
     * file_name (문자형[str], default='2013_2017_치킨데이터.csv') : json을 결합한 csv파일명을 지정합니다. default 값은 '2013_2017_치킨데이터.csv' 입니다.
     - 반환 : 
     * df (pandas.DataFrame) : 설정된 디렉토리내 모든 json파일을 결합하여 pandas 데이터프레임으로 반환합니다.
+
+
+3. restAPI.py
+  - settingDB(host, user, pw, unix_socket, db_name, table_name)
+  - 인자설명 
+  * host(문자형[str]) : 사용할 MySQL의 host의 주소입니다.
+  * user(문자형[str]) : 사용할 MySQL의 권한을 갖은 user name입니다.
+  * pw (문자형[str]) : 사용할 MySQL의 user name의 비밀번호 입니다.
+  * unix_socket(문자형[str]) : MySQL의 소켓 경로입니다.
+  * db_name(문자형[str]) :  생성할 DB의 이름입니다.
+  * table_name(문자형[str]) :  생성할 테이블 이름입니다.
