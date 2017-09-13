@@ -12,6 +12,7 @@
 #### 1) Plotly python [바로가기](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/Plotly)
 #### 2) ggplot2, The way of effcient visualiztion with R, [내용 업데이트를 위한 비공개](https://github.com/pizza12333/project_repo/tree/master/Tutorial/Visualization/ggplot2)
 
+#### 3) 구글 클라우드 플렛폼으로 빠르게 연산하는 파이썬 데이터분석[바로가기](https://github.com/pizza12333/project_repo/tree/master/google_cloud)
 
 ## 2.Project
 
