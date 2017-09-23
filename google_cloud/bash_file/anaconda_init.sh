@@ -6,7 +6,7 @@ mkdir downloads
 cd downloads
 
 wget https://repo.continuum.io/archive/Anaconda2-4.4.0-Linux-x86_64.sh
-yes | "yes" bash Anaconda2-4.4.0-Linux-x86_64.sh
+bash Anaconda2-4.4.0-Linux-x86_64.sh -y
 
 source ~/.bashrc
 
