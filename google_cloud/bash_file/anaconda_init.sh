@@ -6,10 +6,14 @@ mkdir downloads
 cd downloads
 
 wget https://repo.continuum.io/archive/Anaconda2-4.4.0-Linux-x86_64.sh
-bash Anaconda2-4.4.0-Linux-x86_64.sh -b -p
+bash Anaconda2-4.4.0-Linux-x86_64.sh
 
 source ~/.bashrc
 
 echo "compelet ananconda install"
-conda 
 
+cd ../
+mkdir notebook
+cd notebook
+
+ls ~/.jupyter/jupyter_notebook_config.py
