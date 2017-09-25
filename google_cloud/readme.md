@@ -7,3 +7,7 @@
 ### 참고
 http://jupyter-notebook.readthedocs.io/en/latest/public_server.html
 https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/
+http://xgboost.readthedocs.io/en/latest/build.html
+https://github.com/Microsoft/LightGBM
+https://github.com/catboost/catboost
+
